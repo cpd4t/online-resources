@@ -5,6 +5,7 @@ cs unplugged, problem solving, fundamentals
 * [bubble sort](bubblesort.md)
 * [soundbox](soundbox.md)
 * [robot game](robot.md)
+    * [robot language handout](robot_language.pdf) - currently linked to turtle prize
 
 # ks2
 

@@ -1,5 +1,5 @@
 % KS1
-% programming, algorithms, sorting
+% programming, algorithms, sorting, csunplugged
 %
 
 # Algorithms - the bubble sort
