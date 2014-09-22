@@ -12,9 +12,8 @@ cs unplugged, problem solving, fundamentals
 scratch, problem solving, fundamentals
 
 * play, hack, share
-* stop watch
-* build a game
-* raspi aerial photography
+* [stop watch](stopwatch.md)
+* [raspi aerial photography](aerial_photography.md)
 
 # ks3
 
