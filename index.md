@@ -19,8 +19,8 @@ scratch, problem solving, fundamentals
 
 python, syntax, text based
 
-* turtle prize
-* sabotage
+* [turtle prize](turtleprize.md)
+* sabotage - check with Alan
 * sonic pi
 
 # ks4
