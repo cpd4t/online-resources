@@ -5,16 +5,16 @@
 # Problem Solving - building a stopwatch
 
 So far, we've been spending a lot of time and energy learning the fundamentals.
-This is important, but so far it's not much use in the real world. It's like
+This is important, but so far it's not so much use in the real world. It's like
 knowing what bricks, windows and doors do, but not being able to build a house.
 
-Computer programming is really the art of solving problems with a computer. And
-there are all sorts of problems and all sorts of ways of solving them, so it's
-not enough just to learn how to build a particular house - we also need to
-practice problem solving itself.
+One way to think about computer programming is that it's the art of solving
+problems with a computer. And there are all sorts of problems and all sorts of
+ways of solving them. So it's not enough just to learn how to build a particular
+house and remember that solution. We also need to practice problem solving itself.
 
-What we're going to do is build something that could be useful in your
-classroom, a stopwatch.
+What we're going to do is look at solving a real problem in the context of your
+classroom. We're going to build something that's useful: a stopwatch.
 
 # Preparation
 
@@ -28,10 +28,8 @@ Have a think about:
 Einstein said if he had only one hour to save the world he'd spend fifty-five
 minutes defining the problem and only five minutes finding the solution.
 
-We easily rush into the solutions without properly defining what the problem
-really is.
-
-Here is a definition of the stopwatch 'problem':
+We tend to rush into the solutions without properly defining what the problem
+really is. So let's have a longer look at what the stopwatch 'problem' really is:
 
 * It counts up in one second intervals
 * It has a method to start counting
@@ -40,10 +38,12 @@ Here is a definition of the stopwatch 'problem':
 
 There is no 'correct' way of solving each of these challenges, which is one
 reason why it's hard doing this. You need to be prepared for there to be lots of
-correct answers!
+correct answers! Remember all the different ways we solved [taking the
+register](bubblesort.md)?
 
-Have a look at the some of the [solutions](stopwatch_resources.md) here. Some
-use numbers, some use rotating hands, some use variables, some use broadcasts.
+If you get stuck or want inspiration, have a look at the some of the
+[solutions](stopwatch_resources.md) here. Some use numbers, some use rotating
+hands, some use variables, some use broadcasts.
 
 ## Discussion
 
