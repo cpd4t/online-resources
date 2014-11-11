@@ -15,7 +15,7 @@ In the ks2 section we'll mostly be focussing on using the Scratch graphical
 programming language; learning how to apply the fundamentals and solving
 problems.
 
-* play, hack, share
+* [Draw your initial](scratchdraw.md) with Scratch the cat
 * Making a [stop watch](stopwatch.md) in Scratch to teach problem solving
 * Use a Raspberry Pi to take [aerial photographs](aerial_photography.md)
 
@@ -26,7 +26,7 @@ Python with the Turtle Prize.
 
 * Creative graphics with Python and the [Turtle Prize](turtleprize.md)
 * Teach your students to be resiliant to typos and syntax errors with
- a fun game called [Sabotage](sabotage.md) TODO
+ a fun game called [Sabotage](sabotage.md)
 * Programming music with [Sonic Pi](sonicpi.md)
 
 # ks4
@@ -34,7 +34,7 @@ Python with the Turtle Prize.
 file i/o, cameras, raspberry pi
 
 * timelapse classroom
-* lasercut necklace
+* [lasercut waveform necklace](waveform.md)
 * reaction timer python
 * reaction timer raspi
 
