@@ -15,7 +15,7 @@ As a teacher, you want to be helping your students with learning the codes,
 problem solving, debugging and creating. The last thing you want is to be
 constantly rushing around spotting typos and punctuation mistakes!
 
-Sabotage was invented by [Alan O'Donohoe](http://twitter.com/teknoteacher) to
+[Sabotage](https://teachcomputing.wordpress.com/2013/11/23/sabotage-teach-debugging-by-stealth/) was invented by [Alan O'Donohoe](http://twitter.com/teknoteacher) to
 teach resilience in dealing with these types of errors.
 
 ## Method
@@ -49,3 +49,13 @@ really quick at spotting and fixing errors.
 If your students are working in pairs already, then you can have them both
 create the errors, then one student in a pair will swap places with a student
 from another pair.
+
+## Variation
+
+We've also used this as a way of introducing more advanced code in the [sonic
+necklace project](sonic_neckace.md). The code was
+deliberately broken before hand and part of the programming challenge was to fix
+the errors before being able to use the program. Although students will not get
+a full understanding of the code, by working their way through it they'll get to
+see how other programmers make their programs.
+

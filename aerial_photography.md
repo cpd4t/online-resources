@@ -34,13 +34,13 @@ of helium needed and the size of balloon that requires.
 
 As well as a Raspberry Pi, this workshop needs some extra equipment:
 
-* Raspberry Pi Camera board
-* USB battery pack
-* weather balloon
-* a large party balloon helium canister
-* string
+* Raspberry Pi Camera board,
+* USB battery pack,
+* large balloons,
+* a large party balloon helium canister,
+* string.
 
-You can buy a complete kit of parts from our partners at [piffin](linkhere).
+You can buy a complete kit of parts from our partners at [piffin](TODO).
 
 # Warning!
 
@@ -50,6 +50,4 @@ Most importantly, you must check that the flight area has no overhead power line
 # Resources 
 
 * [Lesson plan](aerial_plan.pdf)
-
-## Discussion
 

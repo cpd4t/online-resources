@@ -15,7 +15,7 @@ In the ks2 section we'll mostly be focussing on using the Scratch graphical
 programming language; learning how to apply the fundamentals and solving
 problems.
 
-* [Draw your initial](scratchdraw.md) with Scratch the cat
+* [Draw your initial](scratchdraw/scratchdraw.md) with Scratch the cat
 * Making a [stop watch](stopwatch.md) in Scratch to teach problem solving
 * Use a Raspberry Pi to take [aerial photographs](aerial_photography.md)
 
