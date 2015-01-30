@@ -2,11 +2,25 @@
 % programming, events, csunplugged, parallelism
 %
 
-# Events - Soundbox
+* KS1
+* This activity will help pupils to understand why events are useful and how to use them.
+* You will need: 30 minutes, scissors, paper and pens or access to a printer
 
-Let's take the example of a computer game. We can use a [sequence of instructions](robot.md) to program a baddy to move about. But how do we get the program to move the hero about when we press a key? And how could we program the computer to know when the hero zaps the baddy?
+You will work with the familiar content of nursery rhymes, breaking them down into individual lines, and then challenging the pupils to put them back together again using minimal instructions.
 
-These are both examples of when we would use events. When we can't predict when something will happen but we want to respond to it, we use events.
+# Curriculum context
+
+This Computer Science Unplugged activity embeds the concept of events, a fundamental building-block of programming.
+
+Referring to the Computing Program of Study, events are one of the ‘fundamental principles and concepts of computer science’.
+
+When we can't predict when something will happen but we want to respond to it, we use events.
+
+How are events used in computers? Let's take the example of a computer game.
+When we press a key and the hero moves, that's an event. When we zap the baddy,
+and it disappears, that's an event.
+
+----
 
 # Soundbox
 
@@ -16,11 +30,19 @@ Ask for examples of when computers have to wait for something to happen. MP3 pla
 
 ## Preparation
 
+* Pen and paper, or access to a printer
+* Scissors
 * About 8 per group is a good number.
-* Use a well known song or rhyme and split it up into sections - 1 less than number of children in each group. You can [download some example sheets here](soundbox_rhymes.md)
+* Use a well known song or rhyme and split it up into sections - 1 less than number of children in each group. 
 * Children write down each section on a piece of paper and memorise it.
 
+button[download example sheets](soundbox_rhymes.md)
+
 ## Method
+
+Estimated time for activity: 30 minutes
+
+![maryhad](/assets/images/soundbox/maryhad.jpg)
 
 * The children get in a random order around a central conductor - who triggers the phrase by touching shoulders.
 * The conductor has to work out which order to touch shoulders to make the song come out right.
