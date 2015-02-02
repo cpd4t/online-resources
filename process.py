@@ -2,7 +2,7 @@
 import os
 import re
 
-name = 'soundbox'
+name = 'soundbox_ks2'
 
 #process with pandoc
 os.system('pandoc -o {0}.html {0}.md -fmarkdown-implicit_figures'.format(name))
@@ -11,6 +11,7 @@ os.system('pandoc -o {0}.html {0}.md -fmarkdown-implicit_figures'.format(name))
 #upload assets
 #scp assets/images/soundbox/* cpdforteachers@cpdforteachers.com:/var/www/vhosts/cpdforteachers.com/website/public/assets/images/soundbox/
 
+# do some search and replace stuff to get the html as we need
 with open("%s.html" % name) as fh:
     html = fh.readlines()
 
@@ -32,5 +33,6 @@ for line in html:
 
 with open("%s.html" % name, 'w') as fh:
     fh.write(out)
+
 #put into clipboard
 os.system('cat %s.html | xclip -selection c' % name)
