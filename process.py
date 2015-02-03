@@ -2,14 +2,13 @@
 import os
 import re
 
-name = 'soundbox_ks2'
+name = 'soundbox'
 
 #process with pandoc
 os.system('pandoc -o {0}.html {0}.md -fmarkdown-implicit_figures'.format(name))
 
-
 #upload assets
-#scp assets/images/soundbox/* cpdforteachers@cpdforteachers.com:/var/www/vhosts/cpdforteachers.com/website/public/assets/images/soundbox/
+os.system("rsync -avz -e 'ssh' --progress assets/ cpdforteachers@cpdforteachers.com:/var/www/vhosts/cpdforteachers.com/website/public/assets/")
 
 # do some search and replace stuff to get the html as we need
 with open("%s.html" % name) as fh:
