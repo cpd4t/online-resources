@@ -36,11 +36,9 @@ Ask for examples of when computers have to wait for something to happen. MP3 pla
 * Use a well known song or rhyme and split it up into sections - 1 less than number of children in each group. 
 * Children write down each section on a piece of paper and memorise it.
 
-button[download example sheets](soundbox_rhymes.md)
+button[printable nursery rhymes](/assets/images/soundbox/rhymes.zip)
 
 ## Method
-
-Estimated time for activity: 30 minutes
 
 ![maryhad](/assets/images/soundbox/maryhad.jpg)
 
