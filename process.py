@@ -35,6 +35,11 @@ def post_process():
             out += '<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/%s/?autostart=false" frameborder="0" allowfullscreen></iframe>' % m.group(1)
             continue
 
+        m = re.search('^<p>youtube<a href="([^"]+)">.*</a></p>',line)
+        if m:
+            out += '<iframe width="420" height="315" src="%s" frameborder="0" allowfullscreen></iframe>' % m.group(1)
+            continue
+
         #otherwise
         out += line
 
