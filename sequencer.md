@@ -24,7 +24,9 @@ scratch[scratch](48298470)
 
 Click [this link](http://scratch.mit.edu/projects/48298470/) to go the Scratch project.  From there, you can 'Look Inside' the project to see how the program works.
 
-![see inside](/assets/images/sequencer/see_inside.png)
+Watch our screencast below to see how it all works.
+
+youtube[youtube](https://www.youtube.com/embed/nTRbCdcVukk)
 
 ## Changing the rhythm
 
@@ -44,11 +46,6 @@ blocks of the right colour.
 
 To edit the background image, click on the 'Stage' icon on the far left, then
 click the 'backdrops' tab.
-
-![stage](/assets/images/sequencer/stage.png)
-
-![backdrops](/assets/images/sequencer/backdrops.png)
-
 
 ## Changing the sounds
 
@@ -107,4 +104,5 @@ different ways to do this:
 
 * Add a wait block 
 * Make the cursor move smaller or larger amounts
+
 
