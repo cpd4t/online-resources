@@ -6,7 +6,7 @@
 * This activity will help pupils to understand why events are useful and how to use them.
 * You will need: 30 minutes, scissors, paper and pens or access to a printer
 
-You will work with the familiar content of nursery rhymes, breaking them down into individual lines, and then challenging the pupils to put them back together again using instructions.
+You will work with the familiar content of nursery rhymes, breaking them down into individual lines, and then challenging the pupils to put them back together again using minimal instructions.
 
 # Curriculum context
 
