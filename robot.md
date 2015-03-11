@@ -9,6 +9,8 @@
 You will build obstacle courses for a 'robot' to travel. Children will write
 simple programs that guide a robot from start to finish.
 
+youtube[youtube](https://www.youtube.com/embed/bUtiP-gY0d0)
+
 # Curriculum context
 
 This Computer Science Unplugged activity introduces the sequence - the way
